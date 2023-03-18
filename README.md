@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://chat.whatsapp.com/GikyZutq2lc7ajrz5RZtex">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Android+Login+DarkTeam+Java"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Android+Login+Evolution-Team+Java"
             alt="Caloraメ"
         />
     </a>
